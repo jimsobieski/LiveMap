@@ -1,0 +1,77 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type
+1,62,"1","Barriol <> Cc l'Aurelienne",3
+11,62,"EADHOP","EAD Hôpital",3
+2,62,"2","Hôpital <> Cc La Plaine de Montmajour",3
+20,62,"A20","AGGLO 20 - Tarascon <> Arles",3
+211,62,"211","Gageron <> Arles",3
+212,62,"212","St Martin de Crau Interne",3
+213,62,"213","Mas Thibert Interne",3
+215,62,"215","Moules Interne",3
+216,62,"216","Raphèle Interne",3
+217,62,"217","Raphèle <> Moules <> Arles",3
+218,62,"218","Saliers <> Arles",3
+219,62,"219","Salin de Giraud <> Arles",3
+220,62,"220","Saint Martin de Crau <> Arles",3
+221,62,"221","Tarascon <> Arles",3
+222,62,"222","Tarascon Interne",3
+224,62,"224","Touzazibus 224",3
+225,62,"225","Touzazibus 225",3
+226,62,"226","Gageron Interne",3
+227,62,"227","Arles <> Tarascon <> Beaucaire",3
+228,62,"228","Arles <> St Martin de Crau",3
+3,62,"3","Tournesol <> La Crau",3
+4,62,"4","Clémenceau <> Cc La Plaine de Montmajour",3
+5,62,"5","Clémenceau <> 9 Collines / Piscine Montmajour",3
+6,62,"6","Lamartine <> C.F.A. / Gimeaux",3
+7,62,"7","Clémenceau <> Ile des Sables",3
+8,62,"8","EAD ZI Sud",3
+9,62,"9","EAD Fourchon",3
+223,62,"223","Salin de Giraud <> Port St Louis",3
+10,62,"A10","AGGLO 10 - Salin de Giraud <> Arles",3
+105,62,"NAVIAA","NAVIA A - Arles",3
+106,62,"NAVIAT","NAVIA T - Tarascon",3
+107,62,"NAVIAS","NAVIA S - St Martin de Crau",3
+24,62,"20","Les Saintes Maries de la Mer - Arles",3
+30,62,"A30","AGGLO 30 - St Martin de Crau <> Arles",3
+40,62,"A40","AGGLO 40 St Pierre de Mézoargues <> Boulbon <> Tarascon",3
+03,65,"03","Pin Vert <> Parking Passons",3
+04,65,"04","Penne sur Huveaune <> Gare d'Aubagne",3
+11,65,"11","Cuges-Les-Pins <> Gare d'Aubagne",3
+05,65,"05","La Bouilladisse <> Gare d'Aubagne",3
+06,65,"06","La Penne sur Huveaune <> Eiffel",3
+15,65,"15","Eoures Park - Khamisis <> Gare d'Aubagne",3
+07,65,"07","Gemenos <> Gare d'Aubagne",3
+08,65,"08","Saint Zacharie <> Gare d'Aubagne",3
+09,65,"09","Saint Zacharie <> Gare d'Aubagne",3
+01,65,"01","Gare d'Aubagne <> Les Paluds - Quartier de Jouques",3
+02,65,"02","Les Passons <> Gare d'Aubagne",3
+10,65,"10","La Treille <> Gare d'Aubagne",3
+I,65,"I","Saint Pierre <> Gare d'Aubagne",3
+J,65,"J","Saint Pierre <> Collège Lakanal",3
+A,65,"A","Roquevaire - La Dorgale <> Collège Louis Aragon",3
+O,65,"O","Roquevaire - Centre Ville <> Gare d'Aubagne",3
+P,65,"P","Roquevaire - Eglise <> Collège Louis Aragon",3
+C,65,"C","Scol Auriol Centre <> Collège Ubelka",3
+R,65,"R","Roquevaire - La Sounce <> Collège Louis Aragon",3
+S,65,"S","La Destrousse Souque Nègre <> Collège Ubelka",3
+U,65,"U","La Bouilladisse - Les Playes <> Bouilladisse Gare",3
+H,65,"H","Pin Vert <> Collège Lakanal",3
+13,65,"13","Garenne <> Gare d'Aubagne",3
+T,65,"T","Le Charrel <> Gare",0
+Tbus,65,"Tbus","Garenne <> Gare",3
+Y,65,"Y","Campagne <> Gare d'Aubagne",3
+10S,65,"10S","10S Scol La Treille <> Gare",3
+11S,65,"11S","Cuges-Les-Pins <> Gare d'Aubagne",3
+14,65,"14","La Louve <> Gare d'Aubagne",3
+14S,65,"14S","La Louve <> Gare d'Aubagne",3
+15S,65,"15S","Eoures Park <> Gare d'Aubagne",3
+16,65,"16","Lotissement les Solans <> Gare d'Aubagne",3
+17,65,"17","Auberge Neuve <> Souque Nègre",3
+5S,65,"5S","5S La Bouilladisse <> Gare d'Aubagne",3
+8S,65,"8S","Auriol <> Gare d'Aubagne",3
+9S,65,"9S","Saint Zacharie <> Gare d'Aubagne",3
+B,65,"B","Auriol - St Barthélémy <> Collège Ubelka",3
+D,65,"D","Auriol - Ham. du Moulin de Redon <> Collège Ubelka",3
+EF1,65,"EF1","La Bouilladisse - La Destr <> Collège Louis Aragon",3
+EF2,65,"EF2","La Bouilladisse - La Destr <> Collège Louis Aragon",3
+EF3,65,"EF3","La Bouilladisse - La Destr <> Collège Louis Aragon",3
